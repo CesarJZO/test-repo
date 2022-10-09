@@ -1,3 +1,3 @@
 # Test repository
 
-I'm developing
+I'm developing a project that doesn't do anything in particular
